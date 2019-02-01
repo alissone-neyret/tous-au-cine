@@ -1,0 +1,25 @@
+.Footer {
+  background-color: white;
+  color: #00B9F9;
+  font-size: 1.2em;
+  padding-top: 3%;
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+  box-shadow: -3px -3px 4px rgb(194, 191, 191);
+}
+
+.liste-footer {
+  list-style-type: none;
+  text-align: center;
+}
+
+.liste-footer-logo {
+  list-style-type: none;
+  text-align: center;
+  margin-top: -2%;
+}
+
+.element-liste-footer {
+  margin-bottom: 3%;
+}

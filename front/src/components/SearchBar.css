@@ -1,0 +1,20 @@
+.formulaire {
+  display: flex;
+}
+
+.button-search {
+  height: 60px!important;
+  background-color: rgb(186, 207, 116)!important;
+  border: 1px solid #00B9F9!important;
+  color: #00B9F9!important;
+}
+
+.button-search:hover {
+  background-color: white!important;
+}
+
+.input-search-bar {
+  background-color: #00B9F9!important;
+  height: 60px!important;
+  width: 400px!important;
+}

@@ -1,0 +1,21 @@
+.navbarmain {
+  background-color: transparent;
+}
+
+.item-nav {
+  padding-top: 10px;
+}
+
+.logo-homepage {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.link-navbar {
+  font-size: 1.4em;
+  color: #00B9F9;
+}
+
+.link-navbar:hover {
+  color: rgb(186, 207, 116);
+}

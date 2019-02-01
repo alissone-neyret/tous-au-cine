@@ -1,0 +1,21 @@
+.ligne-card-movie {
+  justify-content: center;
+}
+
+.body-card {
+  text-align: center;
+  font-size: 1.3em;
+}
+
+.body-card-title {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.image-card {
+  height: 500px;
+}
+
+.card-movie {
+  margin-bottom: 5%;
+}
